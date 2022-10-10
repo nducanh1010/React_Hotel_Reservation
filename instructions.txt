@@ -1,9 +1,0 @@
-The backend file is in airbnb folder.
-
-The 'airbnb' folder holds customer window. 
-
-The 'airbnb-admin' folder holds admin window. 
-
-
-you have to start the node server , airbnb-admin , airbnb.
-
